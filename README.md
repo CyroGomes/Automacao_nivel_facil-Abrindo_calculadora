@@ -54,3 +54,4 @@ print(pyautogui.position())
 # Automacao_nivel_facil-Abrindo_calculadora
 # Automacao_nivel_facil-Abrindo_calculadora
 # Automacao_nivel_facil-Abrindo_calculadora
+# Automacao_nivel_facil-Abrindo_calculadora
